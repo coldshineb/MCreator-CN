@@ -1,0 +1,1 @@
+((Player) ${input$entity}).setLevel(((Player) ${input$entity}).getLevel() + ${input$xpamount});

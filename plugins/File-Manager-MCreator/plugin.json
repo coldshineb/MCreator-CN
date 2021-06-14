@@ -1,0 +1,10 @@
+{
+  "id": "file-manager",
+  "minversion": 202100116710,
+  "info": {
+    "name": "File Manager",
+    "description": "Create and read your files",
+    "author": "Goldorion",
+    "version": "3.1"
+  }
+}

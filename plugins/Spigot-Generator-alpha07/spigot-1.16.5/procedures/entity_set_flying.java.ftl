@@ -1,0 +1,1 @@
+${input$entity}.setGravity(${input$condition});

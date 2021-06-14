@@ -1,0 +1,1 @@
+((Player) ${input$entity}).setAllowFlight(${input$condition});

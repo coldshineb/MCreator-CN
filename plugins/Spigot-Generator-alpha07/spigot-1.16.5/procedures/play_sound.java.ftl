@@ -1,0 +1,1 @@
+((Player) ${input$entity}).playSound(((Player) ${input$entity}).getLocation(), Sound.${generator.map(field$sound, "sounds")}, (float)${input$level}, (float)${input$pitch})

@@ -1,0 +1,1 @@
+${input$entity}.sendMessage(${input$text});

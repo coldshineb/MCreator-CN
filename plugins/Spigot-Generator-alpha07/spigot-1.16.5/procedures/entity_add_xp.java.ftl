@@ -1,0 +1,1 @@
+((Player) ${input$entity}).setExp(((Player) ${input$entity}).getExp() + (int) ${input$xpamount});

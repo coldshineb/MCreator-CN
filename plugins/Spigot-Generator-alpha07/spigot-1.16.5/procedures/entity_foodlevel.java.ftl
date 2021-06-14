@@ -1,0 +1,1 @@
+((org.bukkit.entity.Player)${input$entity}).getFoodLevel()

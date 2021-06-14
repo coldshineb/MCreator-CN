@@ -1,0 +1,7 @@
+_default: SpawnGroup.MONSTER
+monster: SpawnGroup.MONSTER
+creature: SpawnGroup.CREATURE
+ambient: SpawnGroup.AMBIENT
+waterCreature: SpawnGroup.WATER_CREATURE
+waterAmbient: SpawnGroup.WATER_AMBIENT
+misc: SpawnGroup.MISC
